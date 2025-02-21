@@ -1,6 +1,16 @@
 
 
-# Hunter Crisp Programming Portfolio
+# Hello, I am Hunter Crisp
+## Welcome to my portfolio, allow me to describe myself;
+
+I have been in the Computer Science program for four-and-a-half years, making all kinds of different projects across three college universities. 
+
+I am most experienced in C++ in Visual Studio and have had experience in Python, Java, Unreal Engine 5, SQL, and HTML.
+
+I am also experienced in working inside a team environment, both in person and online. I’ve worked in collaboration to create an object oriented database in SQL and took a leadership role in online collaborations. I have also undergone a simulation of being a scrum master and performing the responsibilities of one of which I also learned to communicate with stakeholders effectively. You will find that I can adapt to any team environment and can handle most positions well and confidently.
+
+This portfolio is based on the work I completed in my final university course for my Bachelor’s Degree, the Computer Science Capstone. You will find three codes that highlight software design, algorithms, and databases, all enhanced from previous assignments with a code review and narratives for each.
+
 
 | **Theme**                       | **Course**                                                  |
 |--------------------------------:|:------------------------------------------------------------|
@@ -14,6 +24,8 @@
 <summary> 
 #####Software Engineering and Design
 </summary>
+
+Drive Link (file is too large for GitHub): https://drive.google.com/file/d/1vbp8h_ZAxlhjLHeO4jew9QPF6eGLteWX/view?usp=sharing 
 
 This artifact comes from CS330: Computational Graphics and Visualization. It is a program using OpenGL coded in C++ that generates a 3D scene entirely out of code. It was created in June 2024. For my project I created a basic desk setup with a screen, Xbox, notepad and pen.
 
