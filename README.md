@@ -18,6 +18,9 @@ This portfolio is based on the work I completed in my final university course fo
 | Algorithms and Data Structures  | CS-300: Analysis and Design                                 |
 | Databases                       | CS-320: Software Testing, Automation, and Quality Assurance |
 
+## Informative Code Review that goes over the three codes prior to enhacement:
+https://www.youtube.com/watch?v=3PLiJD3NyFk
+
 ## Code Enhancements
 
 <details>
