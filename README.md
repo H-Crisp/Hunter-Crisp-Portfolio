@@ -11,6 +11,8 @@ I am also experienced in working inside a team environment, both in person and o
 
 This portfolio is based on the work I completed in my final university course for my Bachelor’s Degree, the Computer Science Capstone. You will find three codes that highlight software design, algorithms, and databases, all enhanced from previous assignments with a code review and narratives for each.
 
+The first code for this repository is too big to upload, so you will find it with the nerrative for Software Engineering and Design.
+
 
 | **Theme**                       | **Course**                                                  |
 |--------------------------------:|:------------------------------------------------------------|
