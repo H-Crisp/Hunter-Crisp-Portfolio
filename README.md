@@ -13,6 +13,16 @@ This portfolio is based on the work I completed in my final university course fo
 
 The first code for this repository is too big to upload, so you will find it with the nerrative for Software Engineering and Design.
 
+<details>
+<summary> 
+How I've worked with others in the past
+</summary>
+	
+##### Whether or not I am placed in a leadership position, I like to ensure plans and roles are fully understood by everyone and we stay on track to complete work early. I find it always best to aim towards an early completion in case some last minute fixes need to be made. Feedback is also important to me, either giving or receiving, both from team members and stakeholders.
+
+	
+</details>
+
 
 | **Theme**                       | **Course**                                                  |
 |--------------------------------:|:------------------------------------------------------------|
