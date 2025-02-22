@@ -5,7 +5,7 @@
 
 I have been in the Computer Science program for four-and-a-half years, making all kinds of different projects across three college universities. 
 
-I am most experienced in C++ in Visual Studio and have had experience in Python, Java, Unreal Engine 5, SQL, and HTML.
+I am most experienced in C++ in Visual Studio and have had experience in Python, Java, Unreal Engine 5, SQL, OpenGL and HTML.
 
 I am also experienced in working inside a team environment, both in person and online. I’ve worked in collaboration to create an object oriented database in SQL and took a leadership role in online collaborations. I have also undergone a simulation of being a scrum master and performing the responsibilities of one of which I also learned to communicate with stakeholders effectively. You will find that I can adapt to any team environment and can handle most positions well and confidently.
 
@@ -38,7 +38,7 @@ Software Engineering and Design
 
 ##### I met all the course outcomes I planned to reach for this artifact, making all the enhancements plus a little extra.
 
-##### The challenges I faced were having to remember how OpenGL works and looking for what is causing issues without any highlighted errors.
+##### The challenges I faced were quickly having to remember how OpenGL works and looking for what is causing issues without any highlighted errors.
 
 
 
