@@ -9,7 +9,7 @@ I am most experienced in C++ in Visual Studio and have had experience in Python,
 
 I am also experienced in working inside a team environment, both in person and online. I’ve worked in collaboration to create an object oriented database in SQL and took a leadership role in online collaborations. I have also undergone a simulation of being a scrum master and performing the responsibilities of one of which I also learned to communicate with stakeholders effectively. You will find that I can adapt to any team environment and can handle most positions well and confidently.
 
-This portfolio is based on the work I completed in my final university course for my Bachelor’s Degree, the Computer Science Capstone. You will find three codes that highlight software design, algorithms, and databases, all enhanced from previous assignments with a code review and narratives for each.
+This portfolio is based on the work I completed in my final university course for my Bachelor’s Degree, the Computer Science Capstone. You will find three codes that highlight software design, algorithms, and databases, all enhanced from previous assignments with a code review and narratives for each. Completing this capstone has given me experience in reviewing code and looking for ways to improve myself.
 
 The first code for this repository is too big to upload, so you will find it with the nerrative for Software Engineering and Design.
 
