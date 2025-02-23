@@ -131,5 +131,7 @@ Databases
 
 ##### For the added appointment classes, the ID and descriptions follow the same rules as task and task service, with the difference of dates not allowed to be scheduled in the past.
 
+##### The security portion comes in when important variables like addresses are made sure to be well integrated in a way that only an admin can see it. Ethically, when handling other people's private information it is important not to ever reveal it to the wrong hands in accordance to a privacy policy.
+
 ##### With all these changes I met the planned enhancements accordingly, adding new classes and comments in code. During the process I had to re-learn the usages of JUnit testing which was neat.
 </details>
