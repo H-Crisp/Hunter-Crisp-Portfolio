@@ -9,7 +9,8 @@ I am most experienced in C++ in Visual Studio and have had experience in Python,
 
 I am also experienced in working inside a team environment, both in person and online. I’ve worked in collaboration to create an object oriented database in SQL and took a leadership role in online collaborations. I have also undergone a simulation of being a scrum master and performing the responsibilities of one of which I also learned to communicate with stakeholders effectively. You will find that I can adapt to any team environment and can handle most positions well and confidently.
 
-This portfolio is based on the work I completed in my final university course for my Bachelor’s Degree, the Computer Science Capstone. You will find three codes that highlight software design, algorithms, and databases, all enhanced from previous assignments with a code review and narratives for each. Completing this capstone has given me experience in reviewing code and looking for ways to improve myself.
+This portfolio is based on the work I completed in my final university course for my Bachelor’s Degree, the Computer Science Capstone. You will find three codes that highlight software design, algorithms, and databases, all enhanced from previous assignments with a code review and narratives for each. Completing this capstone has given me experience in reviewing code and looking for ways to improve myself. I’ve reflected and aspire to be more proficient in all my programming. I also learned more about continuity in code and writing more descriptive comments that explain segments better.
+
 
 The first code for this repository is too big to upload, so you will find it with the narrative for Software Engineering and Design.
 
@@ -26,7 +27,7 @@ The first code for this repository is too big to upload, so you will find it wit
 ## Why I picked these artifacts
 </summary>
 	
-##### These artifacts are some of my most recent and best work that I can showcase, each fitting a theme relating to computer science. While these themes were required for the Capstone, they do cover many surfaces in the field.
+##### These artifacts are some of my most recent and best work that I can showcase, each fitting a theme relating to computer science. While these themes were required for the Capstone, they also cover many surfaces in the field.
 	
 </details>
 
@@ -131,7 +132,9 @@ Databases
 
 ##### For the added appointment classes, the ID and descriptions follow the same rules as task and task service, with the difference of dates not allowed to be scheduled in the past.
 
-##### The security portion comes in when important variables like addresses are made sure to be well integrated in a way that only an admin can see it. Ethically, when handling other people's private information it is important not to ever reveal it to the wrong hands in accordance to a privacy policy.
+##### The security portion comes in when important variables like addresses are made sure to be well integrated in a way that only an admin can see it. Ethically, when handling other people's private information it is important not to ever reveal it to the wrong hands in accordance to a privacy policy or the users permission.
 
-##### With all these changes I met the planned enhancements accordingly, adding new classes and comments in code. During the process I had to re-learn the usages of JUnit testing which was neat.
+##### With all these changes I met the planned enhancements accordingly, adding new classes and comments in code. During the process I had to re-learn the usages of JUnit testing which was not a problem.
 </details>
+
+While I may not have code to show off that highlights my expertise on security, I can say that I have taken many courses that explicitly teach the importances of it, and I have learned to honor these practices. I've learned to avoid making exploitable code by researching common ways that code is hacked into and methods to avoid that from happening.
