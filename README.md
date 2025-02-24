@@ -16,7 +16,7 @@ The first code for this repository is too big to upload, so you will find it wit
 
 <details>
 <summary> 
-## How I've worked with others in the past
+How I've worked with others in the past
 </summary>
 	
 ##### Whether or not I am placed in a leadership position, I like to ensure plans and roles are fully understood by everyone and we stay on track to complete work early. I find it always best to aim towards an early completion in case some last minute fixes need to be made. Feedback is also important to me, either giving or receiving, both from team members and stakeholders.
@@ -24,7 +24,7 @@ The first code for this repository is too big to upload, so you will find it wit
 </details>
 <details>
 <summary> 
-## Why I picked these artifacts
+Why I picked these artifacts
 </summary>
 	
 ##### These artifacts are some of my most recent and best work that I can showcase, each fitting a theme relating to computer science. While these themes were required for the Capstone, they also cover many surfaces in the field.
