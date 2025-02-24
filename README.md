@@ -137,4 +137,7 @@ Databases
 ##### With all these changes I met the planned enhancements accordingly, adding new classes and comments in code. During the process I had to re-learn the usages of JUnit testing which was not a problem.
 </details>
 
+
+## What about security?
+
 While I may not have code to show off that highlights my expertise on security, I can say that I have taken many courses that explicitly teach the importances of it, and I have learned to honor these practices. I've learned to avoid making exploitable code by researching common ways that code is hacked into and methods to avoid that from happening.
